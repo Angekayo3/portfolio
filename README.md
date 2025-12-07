@@ -1,2 +1,2 @@
 # portfolio
-portfolio personalise regroupant l ensemble de mes projet 
+portfolio personalise regroupant l ensemble de mes projets 
